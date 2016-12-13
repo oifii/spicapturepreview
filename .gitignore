@@ -1,0 +1,30 @@
+#ignore content files
+*.wav
+*.w64
+*.mp4
+*.avi
+*.m4v
+*.flv
+
+#ignore object files
+*.obj
+*.o
+
+#ignore some visual studio files
+*.pch
+ipch/
+*.sbr
+*.sdf
+*.res
+*.ilk
+*.lastbuildstate
+*.manifest
+*.pdb
+*.log
+*.tlog
+*.idb
+*.ncb
+*.aps
+*.opendb
+*.opensdf
+*.cachefile
